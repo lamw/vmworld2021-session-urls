@@ -4,7 +4,7 @@ Here is a summary of all VMworld 2021 Breakout session in an easy to search and 
 
 **Note:** A [free VMworld account](https://events.vmware.com/web/registration) is required to login and view each session.
 
-Total: 477
+Total: 511
 
 ## Table of Content
 
@@ -23,6 +23,8 @@ Total: 477
 * [Security](#security) (54)
 
 * [Vision and Innovation](#vision-and-innovation) (45)
+
+* [VMware Code](#vmware-code) (34)
 
 ## App Modernization
 Session | Title | Speakers
@@ -533,3 +535,40 @@ VI3450 | [Voices of VMworld: Jeff Clarke, Vice Chairman and Co-Chief Operating O
 VI3565 | [Voices of VMworld: A Conversation with Will Smith and Sumit Dhawan](https://www.vmware.com/vmworld/en/video-library/video-landing.html?sessionid=1631725729255001yYf5) | Will Smith
 VI3817 | [Customer Perspective: Strategic Operating Principles and the Future of Technology at FedEx](https://www.vmware.com/vmworld/en/video-library/video-landing.html?sessionid=1633016711341001yYrZ) | Matt Lum, Rob Carter
 
+## VMware Code
+Session | Title | Speakers
+---|---|---
+CODE2739 | [vRO 8.x - How to Work With the Multiple Scripting Languages Support](https://youtu.be/KfxDr7B8VT4) | Sajal Debnath
+CODE2740 | [Integrated UI Experience for 3rd Party vSphere Solutions ](https://youtu.be/-mcLEhrCTp0) | Vladimir Velikov
+CODE2741 | [NSX-T and Infrastructure as Code](https://youtu.be/9M0UJXiBVbw) | Nicolas Michel
+CODE2742 | [Tales from the Trenches - Real-World VMware Cloud on AWS Migrations](https://youtu.be/likxgi8IvgU) | Patrick Kremer, Stephen Barron
+CODE2743 | [Antrea and NSX-T update for Container Networking](https://youtu.be/lb_-AUGWh-4) | Tuan Nguyen
+CODE2744 | [Loop, Swoop and Pull - PowerCLI Will be as Easy as Tying Your Shoes!](https://youtu.be/SndRqDBqEAw) | Justin Sider
+CODE2745 | [Modern vSphere Monitoring Using InfluxDB, Telegraf, and Grafana](https://youtu.be/uj6rKGk7Yys) | Jorge de la Cruz
+CODE2746 | [Networking and Security of Modern Apps with NSX-T and Openshift](https://youtu.be/cmAcz3L1P-U) | Madhukar Krishnarao
+CODE2747 | [Managing your Horizon Environment Using the Python Module for Horizon](https://youtu.be/iEugpZ7Mspw) | Wouter Kursten
+CODE2748 | Rapid Application Development | Mukund Yadav
+CODE2749 | [Adding Custom Logic to TKG Cluster Deployment](https://youtu.be/nKOPtNaTsMU) | Scott Rosenberg
+CODE2751 | [Kickstart Automating vRealize Network Insight with the Toolkit](https://youtu.be/6iEg8h-EvR8) | Martijn Smit
+CODE2752 | [Place Your Cluster in a Desired State](https://youtu.be/8bgB09wZvWI) | Ivaylo Ivanov
+CODE2753 | [vSphere Mobile Client - Access vSphere Anytime, Anywhere, Any Device](https://youtu.be/S7Gw1hCM0ug) | Tihomir Mateev
+CODE2755 | Live Coding: Terraforming Your vSphere Environment | Kyle Ruddy
+CODE2756 | [Build and Publish a PowerShell Module to the PowerShell Gallery](https://youtu.be/maRcewbGdK4) | David Stamen
+CODE2757 | [Debugging Code on Kubernetes](https://youtu.be/RhTDYOa9iLk) | Mark Foley, Sharmyn Kayani
+CODE2758 | [Pitfalls of Infrastructure as Code (And How to Avoid Them!)](https://youtu.be/ji2BmjN0rlc) | Tim Davis
+CODE2759 | Testing Tanzu on the Desktop | Michael Roy
+CODE2760 | [ECMAScript2020 in vRealize Orchestrator](https://youtu.be/-DkCOyUE-NQ) | Mayank Goyal
+CODE2762 | [DIY Deployment of Event-Driven Automation in vSphere Environments](https://youtu.be/ieUqfir5Oag) | Robert Guske
+CODE2771 | Demystify Cloud Disaster Recovery to Build Resilient Environment  | Shwetha Lakshman Rao
+CODE2772 | Safely Application Deployment From Dream to Reality | Rachid Zarouali
+CODE2773 | [VEBA Revolutions - Unleashing the Power of Event-Driven Automation](https://youtu.be/jwgJpZM68mA) | Michael Gasch, William Lam
+CODE2778 | [Talk Nerdy to Me, Using Python to Create VMs with vGPUs for AI Workloads](https://youtu.be/Gh9nzLPvQCM) | Tony Foster
+CODE2780 | [The State of the TKG Art](https://youtu.be/3Nnbw23y248) | Robert Kloosterhuis
+CODE2781 | [Integrating IBM QRadar with Carbon Black Cloud](https://youtu.be/2YAm0HGDVB0) | Milen Rangelov
+CODE2782 | [Automating Ransomware Remediation with the VMware Carbon Black Cloud SDK](https://youtu.be/cmxWNtOi6nU) | Alex Van Brunt, Emanuela
+CODE2788 | Carvel 101: Streamline Your Kubernetes Workflow | Cora Iberkleid
+CODE2795 | From vSphere Admin to Site Reliability Engineer - Where Do I Start? | Michael Fleisher
+CODE2796 | The Cross-Platform SRE - No OS Left Behind! | Michael Fleisher, Patrick Kremer
+CODE2805 | [Pipelining Tanzu Kubernetes Clusters](https://youtu.be/mkUXe2s1W0c) | Dean Lewis, Sam McGeown
+CODE2806 | [Automating HCX Migrations](https://youtu.be/ue5hTYhtx0k) | Bilal Ahmed, Dean Lewis
+CODE2809 | [Integrating Backup Into Your GitOps CI/CD Pipeline](https://youtu.be/CI4ob-3JLIM) | Michael Cade
